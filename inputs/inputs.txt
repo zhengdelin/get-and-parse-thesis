@@ -1,0 +1,2 @@
+kw|years|maxCount|degrees|langs
+1|110 113|10|2|2
